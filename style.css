@@ -1,0 +1,37 @@
+.container-fluid {
+  background-color: #e6e6e6;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
+h2 {
+  margin-top: 15vh;
+  margin-left: 20vw;
+  font: 7vw "Poiret One", sans-serif;
+  color: #264d73;
+}
+.screen {
+  width: 60vw;
+  background-color: rgba(153, 194, 255, 0.7);
+  margin: 7vh 20vw 20vh 20vw;
+}
+ul {
+  font: 1.5vw "Poiret One", sans-serif;
+  font-weight: bold;
+}
+.list {
+  padding: 3vh 2vw 3vh 2vw;
+  font: 1vw "Biryani", sans-serif;
+}
+.row {
+  margin: 0vw 1vw 0vw 1vw;
+  padding: 0.8vw 1vw 0.5vw 0.3vw;
+  background-color: white;
+  line-height: 6vw;
+}
+.col-sm-7 {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  display: block;
+}
